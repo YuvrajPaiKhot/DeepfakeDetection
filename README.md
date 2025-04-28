@@ -1,7 +1,5 @@
 # A Comprehensive Approach to Deepfake Detection Using BiLSTM and ResNeXt
 
-This repository contains the code and resources for the deepfake detection system described in the paper "[Your Paper Title, if finalized]" by Yuvraj Sanjiv Pai Khot, Sanskar Kumar, Siya Verma, and Prof. Prakash R from Vellore Institute of Technology (VIT), Vellore.
-
 ## Overview
 
 Deepfakes, AI-generated synthetic media, pose significant challenges to digital authenticity. This project implements and evaluates a deep learning model designed to detect deepfake videos effectively. The approach utilizes a cascade architecture combining a ResNeXt-50 CNN for spatial feature extraction and a Bidirectional LSTM (BiLSTM) for temporal sequence analysis to identify subtle inconsistencies indicative of manipulation. The model is trained and evaluated on standard benchmark datasets like FaceForensics++ and Celeb-DF.
