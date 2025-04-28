@@ -10,12 +10,10 @@ Deepfakes, AI-generated synthetic media, pose significant challenges to digital 
 * Code for training on the FaceForensics++ dataset.
 * Code for fine-tuning the model on the Celeb-DF dataset for improved generalization.
 * Evaluation scripts for assessing model performance.
-* (Optional: Include if applicable) A user-friendly interface using Streamlit for easy video upload and prediction.
+* A user-friendly interface using Streamlit for easy video upload and prediction.
 
 ## Performance Highlights
 
 * Achieved **91.43%** accuracy on the FaceForensics++ test set.
 * Achieved **96.26%** accuracy on the Celeb-DF test set after fine-tuning (with 99.81% accuracy on fake videos).
 * The model architecture prioritizes a balance between detection performance and computational efficiency.
-
-## Repository Structure
